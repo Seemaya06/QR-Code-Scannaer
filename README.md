@@ -1,1 +1,2 @@
-# QR-Code-Scannaer
+# tabNavigation
+Tab navigation in the app
